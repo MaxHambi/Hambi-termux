@@ -106,3 +106,11 @@ source $ZSH/oh-my-zsh.sh
 alias hambi='bash ~/tool_starter.sh'
 alias v='~/pasteclip.sh'
 POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true
+alias update='pkg update && pkg upgrade -y'
+alias cls='clear'
+alias cls='clear'
+
+
+
+echo -e "\033[1;36m$(figlet -f slant 'Max Hambi Privates Termux')\033[0m"
+
