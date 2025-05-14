@@ -116,3 +116,4 @@ echo -e "\033[1;36m$(figlet -f slant 'Max Hambi Privates Termux')\033[0m"
 
 alias open-extern='~/open-extern'
 alias cd h='cd ~/usr/'
+alias =''
