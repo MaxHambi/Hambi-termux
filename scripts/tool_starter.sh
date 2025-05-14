@@ -69,6 +69,7 @@ while true; do
 done
 
 # === Benutzerdefinierte Tools ===
+Pfad Variable hinzufügen|pfadvar.sh
 Backup 2 Github|./backup.sh
 ZSHrc Edit|./zshrc_tool.sh
 
